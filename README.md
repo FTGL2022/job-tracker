@@ -32,4 +32,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/your-username/job-tracker.git
-cd job-tracker
+cd job-tracker# job-tracker
